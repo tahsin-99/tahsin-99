@@ -18,15 +18,13 @@ Key Highlights
 
 ### Connect with me:
 <p>
-  <a href="https://www.facebook.com/tahsinsikder.prithul">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+ <a href="https://www.linkedin.com/in/tahsin-sikder99/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://x.com/tahsinsikder00">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.linkedin.com/in/tahsin-sikder99/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+ 
 </p>
 
 
