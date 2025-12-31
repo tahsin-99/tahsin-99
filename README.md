@@ -16,6 +16,20 @@ Key Highlights
 
 🌱 Goal: To grow as a professional software engineer and contribute to impactful digital products
 
+### Connect with me:
+<p>
+  <a href="https://www.facebook.com/tahsinsikder.prithul">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+  <a href="https://x.com/tahsinsikder00">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/tahsin-sikder99/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+
 ### Languages and Tools:
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,firebase,vercel,netlify,vscode" />
 
